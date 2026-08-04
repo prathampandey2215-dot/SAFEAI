@@ -190,4 +190,4 @@ The threat model should be reviewed whenever:
 
 Conclusion
 
-Threat modeling is an ongoing process. SafeAI will continuously evaluate new risks and improve its security posture to protect users and their data.
+Threat modeling is an ongoing process. SafeAI will continuously evaluate new risks and improve its security posture to protect users and their data. 
